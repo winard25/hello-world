@@ -12,6 +12,7 @@ public class HelloGit {
 		System.out.println("Hello Git from winard delos santos!!!");
 		System.out.println("This is exciting..............");
 		System.out.println("NO, it's not!..............");
+		System.out.println("This is insane..............");
 	}
 
 }
