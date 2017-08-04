@@ -10,6 +10,7 @@ public class HelloGit {
 	
 	public static void greetings() {
 		System.out.println("Hello Git from winard delos santos!!!");
+		System.out.println("*************************************");
 	}
 
 }
