@@ -4,7 +4,7 @@ public class DisplayNumbers {
 	
 	public void generateNumbers() {
 
-		for (int i = 0; i < 10; i++) {
+		for (int i = 0; i < 15; i++) {
 
 			System.out.println(i);
 		}
