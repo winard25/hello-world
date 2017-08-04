@@ -8,7 +8,7 @@ public class HelloGit {
 	}
 	
 	public static void greetings() {
-		System.out.println("Hello Git");
+		System.out.println("Hello Git!!!");
 	}
 
 }
